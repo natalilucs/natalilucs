@@ -1,12 +1,12 @@
-# Salut!👋
-## ¡Hola!
+### Salut!👋
+### ¡Hola!
 ### Oi!
-#### Hi!
+### Hi!
 
 
 Meu nome é Natali Lucas, estou em minha jornada de transição de carreira para tecnologia.  🧠
- Aspirante a dev jr, amiga do youtube e fã de bootcamps! 👩🏽‍💻
- 📍 São Paulo-SP. 
+Aspirante a dev jr, amiga do youtube e fã de bootcamps! 👩🏽‍💻
+📍 São Paulo-SP. 
 
 
 
@@ -16,10 +16,10 @@ Meu nome é Natali Lucas, estou em minha jornada de transição de carreira para
 
 
 
-### Estou Aprendendo:
-### HTML
-### CSS
-### JAVASCRIPT
+#### Estou Aprendendo:
+#### HTML
+#### CSS
+#### JAVASCRIPT
 
 ##### contatos:
 
