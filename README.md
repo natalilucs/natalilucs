@@ -5,7 +5,7 @@
 
 
 #### Meu nome é Natali Lucas, estou em minha jornada de transição de carreira para tecnologia.  🧠
-#### Aspirante a dev jr, amiga do youtube e fã de bootcamps! 👩🏽‍💻
+#### Estudante Full Stack na Soul Academy! 👩🏽‍💻
 #### 📍 São Paulo-SP. 
 
 
