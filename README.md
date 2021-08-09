@@ -1,27 +1,17 @@
-### Salut!👋
-### ¡Hola!
-### Oi!
-### Hi!
+### Hi👋
 
-
-#### Meu nome é Natali Lucas, estou em minha jornada de transição de carreira para tecnologia.  🧠
-#### Estudante Full Stack na Soul Academy! 👩🏽‍💻
-#### 📍 São Paulo-SP. 
+#### My name is Natali Lucas, i'm in a career transition to technology 🧠
+#### Full Stack Student at Soul Academy! 👩🏽‍💻
+#### 📍 Based in São Paulo, SP. 
 
 
 
-##### - Curiosidades: Não superei GOT! 
-##### - Gosto mesmo é de filmes/séries de ação !
-##### - Não vivo sem celular, séries, música, viagens, família e Deus(1º).
-
-
-
-#### Estou Aprendendo:
-#### HTML
+#### Currently learning:
+#### HTML 
 #### CSS
 #### JAVASCRIPT
 
-##### contatos:
+##### How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Natali%20Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/natali-lucas-5347b631/) )](https://www.linkedin.com/in/natali-lucas-5347b631/) [![Gmail Badge](https://img.shields.io/badge/-Natali%20Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natali.luca92@gmail.com)](mailto:natali.luca92@gmail.com)
 
